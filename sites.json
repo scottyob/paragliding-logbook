@@ -1,13 +1,14 @@
 {
     "Mission": ["Mission"],
     "Ed Levin": ["Ed Levin"],
-    "Mussel Rock": ["Dumps - "],
-    "Sand City": ["North Lake Dune", "Sand City"],
+    "Mussel Rock": ["Dumps - ", "Mussel Rock"],
+    "Marina / Sand City": ["North Lake Court Dune", "Sand City"],
     "Monroe": ["Monroe"],
     "Dunlap": ["Dunlap"],
     "Tollhouse": ["Tollhouse"],
     "Point of the Mountain": ["Point of the Mountain"],
     "Iquique": ["Alto Hospicio"],
     "Palo Buque": ["Palo Buque"],
-    "Mt Tam": ["Mt Tam"]
+    "Mt Tam": ["Mt Tam"],
+    "Stanwell Park, Sydney": ["Stanwell Park"]
 }

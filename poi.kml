@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+    <Folder>
+      <name>Waypoints</name>
+      <Placemark>
+        <name>4160</name>
+        <description> HILL</description>
+        <Point>
+        <coordinates>-122.687974,39.389287,1245.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>49917</name>
+        <description> 49917</description>
+        <Point>
+        <coordinates>-119.121414,36.781434,1511.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4LNTRN</name>
+        <description>4 LANE TURN</description>
+        <Point>
+        <coordinates>-119.456674,37.065125,645.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AIRSTR</name>
+        <description>AIRSTRIP</description>
+        <Point>
+        <coordinates>-119.137649,36.716483,641.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BALDMT</name>
+        <description>BALD MOUNTAIN</description>
+        <Point>
+        <coordinates>-119.203370,36.765950,1081.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BIGCAT</name>
+        <description>PROJECT SURVIVAL</description>
+        <Point>
+        <coordinates>-119.129500,36.766384,785.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BLKDMD</name>
+        <description>BLACK DIAMOND</description>
+        <Point>
+        <coordinates>-122.621188,39.409858,978.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BLKMTN</name>
+        <description>BLACK MOUNTAIN</description>
+        <Point>
+        <coordinates>-119.451973,37.012841,1091.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BRITTA</name>
+        <description>BRITTAN RANCH</description>
+        <Point>
+        <coordinates>-122.663827,39.397054,741.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TIM</name>
+        <description>TIMS LZ</description>
+        <Point>
+        <coordinates>-119.105132,36.735500,632.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DAVIS</name>
+        <description>DAVIS</description>
+        <Point>
+        <coordinates>-122.654673,39.362252,491.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DELILA</name>
+        <description>DELILAH</description>
+        <Point>
+        <coordinates>-119.118986,36.789115,1623.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DLTNMT</name>
+        <description>DALTON MOUNTAIN</description>
+        <Point>
+        <coordinates>-119.241068,36.774402,1053.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TMLNCH</name>
+        <description>TIMS LAUNCH</description>
+        <Point>
+        <coordinates>-119.098432,36.765267,1415.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GRNY</name>
+        <description>GRANY S KNOB</description>
+        <Point>
+        <coordinates>-119.134483,36.729831,881.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HAPPY</name>
+        <description>Y CAMPERS</description>
+        <Point>
+        <coordinates>-122.675356,39.380036,749.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HILLOC</name>
+        <description>HILLOCK YOU PILL</description>
+        <Point>
+        <coordinates>-122.710809,39.395486,1444.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOPE</name>
+        <description>HOPEWELL ROAD</description>
+        <Point>
+        <coordinates>-119.169082,36.760156,635.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JOHNLO</name>
+        <description>LOW ON ST JOHN</description>
+        <Point>
+        <coordinates>-122.673678,39.419556,1668.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KNOB</name>
+        <description></description>
+        <Point>
+        <coordinates>-119.410428,37.022163,832.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LASTCH</name>
+        <description>LAST CHANCE</description>
+        <Point>
+        <coordinates>-119.079649,36.737117,1053.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NONAME</name>
+        <description>NO NAME KNOB</description>
+        <Point>
+        <coordinates>-119.121182,36.721367,854.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POTLAU</name>
+        <description>POTATO LAUNCH</description>
+        <Point>
+        <coordinates>-122.685269,39.340662,1040.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POTLZ</name>
+        <description>POTATO LZ</description>
+        <Point>
+        <coordinates>-122.662075,39.349642,518.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RUTH</name>
+        <description>RUTH HILL</description>
+        <Point>
+        <coordinates>-119.191886,36.730317,815.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SANDYM</name>
+        <description>SANDY MOUNTAIN</description>
+        <Point>
+        <coordinates>-119.465090,37.073890,930.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SJUHS</name>
+        <description>RA JOINT UNI</description>
+        <Point>
+        <coordinates>-119.454840,37.036241,587.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SKNOB</name>
+        <description>SANDY KNOB</description>
+        <Point>
+        <coordinates>-119.450690,37.046408,643.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SNOWLO</name>
+        <description>SNOW MOUNTAIN L</description>
+        <Point>
+        <coordinates>-122.699824,39.371072,1600.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SNOWVL</name>
+        <description>VERY LOW ON SNOW</description>
+        <Point>
+        <coordinates>-122.690083,39.370823,1361.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SONTAG</name>
+        <description>SONTAG POINT</description>
+        <Point>
+        <coordinates>-119.076666,36.746933,1277.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SQVAL</name>
+        <description>SQUAW VALLEY</description>
+        <Point>
+        <coordinates>-119.251518,36.738768,507.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>STJOHN</name>
+        <description>St JOHN MOUNTAIN</description>
+        <Point>
+        <coordinates>-122.691621,39.430433,1939.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>STONYF</name>
+        <description>STONYFORD</description>
+        <Point>
+        <coordinates>-122.543858,39.375019,360.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TANK</name>
+        <description></description>
+        <Point>
+        <coordinates>-119.211554,36.713770,700.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TIT</name>
+        <description>SQUAW TIT</description>
+        <Point>
+        <coordinates>-119.386606,37.033307,1190.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TOLLLN</name>
+        <description>TOLLHOUSE LAUNCH</description>
+        <Point>
+        <coordinates>-119.373355,37.015507,1241.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TOLLLZ</name>
+        <description>TOLLHOUSE LZ</description>
+        <Point>
+        <coordinates>-119.400388,37.014007,581.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TOP</name>
+        <description>POTATO TOP</description>
+        <Point>
+        <coordinates>-122.698033,39.334906,1073.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TROUGH</name>
+        <description>TROUGH SPUR</description>
+        <Point>
+        <coordinates>-122.646633,39.349706,775.000000</coordinates>
+        </Point>
+      </Placemark>
+ <Placemark>
+        <name>LODGE</name>
+        <description>LODGE ROAD HILL</description>
+        <Point>
+        <coordinates>-119.412419,37.002029,770.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TURKEY</name>
+        <description>TURKEY FARM</description>
+        <Point>
+        <coordinates>-119.129448,36.740185,568.000000</coordinates>
+        </Point>
+      </Placemark>
+ <Placemark>
+        <name>DNLNCH</name>
+        <description>DUNLAP LAUNCH</description>
+        <Point>
+        <coordinates>-119.097968,36.765116,1415.000000</coordinates>
+        </Point>
+      </Placemark>
+ <Placemark>
+        <name>DNLPLZ</name>
+        <description>DUNLAP LZ</description>
+        <Point>
+        <coordinates>-119.104777,36.735891,568.000000</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

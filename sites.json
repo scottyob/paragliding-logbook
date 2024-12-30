@@ -1,15 +1,82 @@
 {
-    "Mission": ["Mission"],
-    "Ed Levin": ["Ed Levin"],
-    "Mussel Rock": ["Dumps - ", "Mussel Rock"],
-    "Marina / Sand City": ["North Lake Court Dune", "Sand City"],
-    "Monroe, Utah": ["Monroe"],
-    "Junction, Utah": ["Junction"],
-    "Dunlap": ["Dunlap"],
-    "Tollhouse": ["Tollhouse"],
-    "Point of the Mountain": ["Point of the Mountain"],
-    "Alto Hospicio": ["Alto Hospicio"],
-    "Palo Buque": ["Palo Buque"],
-    "Mt Tam": ["Mt Tam"],
-    "Stanwell Park, Sydney": ["Stanwell Park"]
+    "Mission": {
+        "aliases": [
+            "Mission"
+        ],
+        "type": "thermal"
+    },
+    "Ed Levin": {
+        "aliases": [
+            "Ed Levin"
+        ],
+        "type": "thermal"
+    },
+    "Mussel Rock": {
+        "aliases": [
+            "Dumps - ",
+            "Mussel Rock"
+        ],
+        "type": "ridge"
+    },
+    "Marina / Sand City": {
+        "aliases": [
+            "North Lake Court Dune",
+            "Sand City"
+        ],
+        "type": "ridge"
+    },
+    "Monroe, Utah": {
+        "aliases": [
+            "Monroe"
+        ],
+        "type": "thermal"
+    },
+    "Junction, Utah": {
+        "aliases": [
+            "Junction"
+        ],
+        "type": "thermal"
+    },
+    "Dunlap": {
+        "aliases": [
+            "Dunlap"
+        ],
+        "type": "thermal"
+    },
+    "Tollhouse": {
+        "aliases": [
+            "Tollhouse"
+        ],
+        "type": "thermal"
+    },
+    "Point of the Mountain": {
+        "aliases": [
+            "Point of the Mountain"
+        ],
+        "type": "ridge"
+    },
+    "Alto Hospicio": {
+        "aliases": [
+            "Alto Hospicio"
+        ],
+        "type": "thermal"
+    },
+    "Palo Buque": {
+        "aliases": [
+            "Palo Buque"
+        ],
+        "type": "ridge"
+    },
+    "Mt Tam": {
+        "aliases": [
+            "Mt Tam"
+        ],
+        "type": "thermal"
+    },
+    "Stanwell Park, Sydney": {
+        "aliases": [
+            "Stanwell Park"
+        ],
+        "type": "ridge"
+    }
 }

@@ -14,7 +14,8 @@
     "Mussel Rock": {
         "aliases": [
             "Dumps - ",
-            "Mussel Rock"
+            "Mussel Rock",
+            "The Stables"
         ],
         "type": "ridge"
     },
@@ -40,6 +41,12 @@
     "Dunlap": {
         "aliases": [
             "Dunlap"
+        ],
+        "type": "thermal"
+    },
+    "Potato Hill": {
+        "aliases": [
+            "Potato Hill"
         ],
         "type": "thermal"
     },

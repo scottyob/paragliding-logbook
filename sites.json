@@ -85,5 +85,17 @@
             "Stanwell Park"
         ],
         "type": "ridge"
+    },
+    "Woodrat Mountain, Oregon": {
+        "aliases": [
+            "Woodrat"
+        ],
+        "type": "thermal"
+    },
+    "Mount Vaca": {
+        "aliases": [
+            "Mt Vaca"
+        ],
+        "type": "thermal"
     }
 }
